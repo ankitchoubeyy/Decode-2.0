@@ -4,18 +4,17 @@ using namespace std;
 int main()
 {
     // --------------- for Loops -----------------
-    // for(int i = 0; i<= 10; i++){
-    //   cout<<"Good Morning"<<endl;
-    // }
-
-    // -----------------------------------
+    for(int i = 0; i<= 10; i++){
+      cout<<"Good Morning"<<endl;
+    }
+    
     // for n times
-    // int n;
-    // cout<<"Enter the value of n";
-    // cin>>n;
-    // for(int j = 1; j<= n; j++){
-    //   cout<<"Good Morning"<<endl;
-
+    int n;
+    cout<<"Enter the value of n";
+    cin>>n;
+    for(int j = 1; j<= n; j++){
+      cout<<"Good Morning"<<endl;
+    }
     // --------------------------------------
 
     // Q1. ALl the even numbers from 1 to 100
